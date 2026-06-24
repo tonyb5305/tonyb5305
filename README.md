@@ -59,4 +59,4 @@ Octubre 2024 - Actualidad
 
 📍 Cartagena, Colombia
 
-🔗 GitHub: github.com/tonyb5305
+🔗  Perfil: https://github.com/tonyb5305
