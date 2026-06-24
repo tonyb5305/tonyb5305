@@ -41,7 +41,6 @@ Sistema de inventario desarrollado aplicando la metodología Test Driven Develop
 * SQL Server Management Studio
 * Azure Data Studio
 * Android Studio
-* NetBeans
 * StarUML
 * ERD Plus
 * DBD Designer
