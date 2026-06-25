@@ -51,7 +51,7 @@ Proyecto académico orientado al análisis y diseño de soluciones tecnológicas
 
 ## Herramientas y Tecnologías
 
-* Visual Studio 2022
+* Visual Studio 2026
 * Visual Studio Code
 * SQL Server Management Studio (SSMS)
 * Azure Data Studio
